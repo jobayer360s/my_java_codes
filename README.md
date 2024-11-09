@@ -1,4 +1,4 @@
-# OOP 1 - C# (java)
+# OOP 1 - java
 
 ## Introduction
 This repository contains the source code and examples for
@@ -25,9 +25,9 @@ This repository contains the source code and examples for
 - Basic knowledge in Object-Oriented Concepts
 
 #warning!
-#please do not copy codes directly from here. This will harm your learnig.
-#Try to solve problems by yourself. If you faced difficulty then take help from here.
-#Happy Learning
+# please do not copy codes directly from here. This will harm your learnig.
+# Try to solve problems by yourself. If you faced difficulty then take help from here.
+# Happy Learning
 
 ## Contact
 For any questions or feedback, please contact me at [jobayer.sheakh@gmail.com].
